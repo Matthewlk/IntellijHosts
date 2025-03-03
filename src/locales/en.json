@@ -1,0 +1,101 @@
+{
+  "app": {
+    "title": "IntellijHosts",
+    "description": "Cross-platform hosts file manager"
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "create": "Create",
+    "apply": "Apply",
+    "import": "Import",
+    "export": "Export",
+    "search": "Search",
+    "settings": "Settings",
+    "name": "Name",
+    "description": "Description",
+    "enabled": "Enabled",
+    "disabled": "Disabled",
+    "ip": "IP Address",
+    "domain": "Domain",
+    "comment": "Comment",
+    "created": "Created",
+    "updated": "Updated",
+    "backup": "Backup",
+    "restore": "Restore",
+    "confirm": "Confirm",
+    "error": "Error",
+    "success": "Success"
+  },
+  "sidebar": {
+    "profiles": "Profiles",
+    "current": "Current Hosts",
+    "settings": "Settings"
+  },
+  "hosts": {
+    "title": "Hosts File",
+    "path": "Path",
+    "entries": "Entries",
+    "add": "Add Entry",
+    "edit": "Edit Entry",
+    "delete": "Delete Entry",
+    "backup": "Backup Hosts",
+    "restore": "Restore from Backup"
+  },
+  "profiles": {
+    "title": "Profiles",
+    "create": "Create Profile",
+    "edit": "Edit Profile",
+    "delete": "Delete Profile",
+    "apply": "Apply Profile",
+    "import": "Import Profiles",
+    "export": "Export Profiles",
+    "confirmDelete": "Are you sure you want to delete this profile?",
+    "confirmApply": "Are you sure you want to apply this profile? This will overwrite your current hosts file.",
+    "noProfiles": "No profiles found. Create one to get started."
+  },
+  "settings": {
+    "title": "Settings",
+    "theme": {
+      "title": "Theme",
+      "light": "Light",
+      "dark": "Dark",
+      "system": "System"
+    },
+    "language": {
+      "title": "Language"
+    },
+    "backup": {
+      "title": "Backups",
+      "location": "Backup Location",
+      "autoBackup": "Auto Backup",
+      "manageBackups": "Manage Backups"
+    },
+    "updates": {
+      "title": "Updates",
+      "check": "Check for Updates",
+      "auto": "Auto Update",
+      "current": "Current Version"
+    }
+  },
+  "errors": {
+    "permission": "Permission denied. Please run with administrator privileges.",
+    "read": "Failed to read hosts file.",
+    "write": "Failed to write hosts file.",
+    "profile": "Failed to load profiles.",
+    "backup": "Failed to create backup.",
+    "restore": "Failed to restore from backup.",
+    "import": "Failed to import profiles.",
+    "export": "Failed to export profiles."
+  },
+  "success": {
+    "saved": "Changes saved successfully.",
+    "applied": "Profile applied successfully.",
+    "backup": "Backup created successfully.",
+    "restore": "Hosts file restored successfully.",
+    "import": "Profiles imported successfully.",
+    "export": "Profiles exported successfully."
+  }
+}

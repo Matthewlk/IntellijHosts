@@ -1,0 +1,101 @@
+{
+  "app": {
+    "title": "IntellijHosts",
+    "description": "跨平台 hosts 文件管理器"
+  },
+  "common": {
+    "save": "保存",
+    "cancel": "取消",
+    "delete": "删除",
+    "edit": "编辑",
+    "create": "创建",
+    "apply": "应用",
+    "import": "导入",
+    "export": "导出",
+    "search": "搜索",
+    "settings": "设置",
+    "name": "名称",
+    "description": "描述",
+    "enabled": "启用",
+    "disabled": "禁用",
+    "ip": "IP地址",
+    "domain": "域名",
+    "comment": "注释",
+    "created": "创建时间",
+    "updated": "更新时间",
+    "backup": "备份",
+    "restore": "恢复",
+    "confirm": "确认",
+    "error": "错误",
+    "success": "成功"
+  },
+  "sidebar": {
+    "profiles": "配置文件",
+    "current": "当前Hosts",
+    "settings": "设置"
+  },
+  "hosts": {
+    "title": "Hosts文件",
+    "path": "路径",
+    "entries": "条目",
+    "add": "添加条目",
+    "edit": "编辑条目",
+    "delete": "删除条目",
+    "backup": "备份Hosts",
+    "restore": "从备份恢复"
+  },
+  "profiles": {
+    "title": "配置文件",
+    "create": "创建配置",
+    "edit": "编辑配置",
+    "delete": "删除配置",
+    "apply": "应用配置",
+    "import": "导入配置",
+    "export": "导出配置",
+    "confirmDelete": "确定要删除此配置吗？",
+    "confirmApply": "确定要应用此配置吗？这将覆盖您当前的hosts文件。",
+    "noProfiles": "未找到配置文件。创建一个以开始使用。"
+  },
+  "settings": {
+    "title": "设置",
+    "theme": {
+      "title": "主题",
+      "light": "浅色",
+      "dark": "深色",
+      "system": "跟随系统"
+    },
+    "language": {
+      "title": "语言"
+    },
+    "backup": {
+      "title": "备份",
+      "location": "备份位置",
+      "autoBackup": "自动备份",
+      "manageBackups": "管理备份"
+    },
+    "updates": {
+      "title": "更新",
+      "check": "检查更新",
+      "auto": "自动更新",
+      "current": "当前版本"
+    }
+  },
+  "errors": {
+    "permission": "权限被拒绝。请使用管理员权限运行。",
+    "read": "读取hosts文件失败。",
+    "write": "写入hosts文件失败。",
+    "profile": "加载配置文件失败。",
+    "backup": "创建备份失败。",
+    "restore": "从备份恢复失败。",
+    "import": "导入配置文件失败。",
+    "export": "导出配置文件失败。"
+  },
+  "success": {
+    "saved": "更改已成功保存。",
+    "applied": "配置已成功应用。",
+    "backup": "备份已成功创建。",
+    "restore": "Hosts文件已成功恢复。",
+    "import": "配置文件已成功导入。",
+    "export": "配置文件已成功导出。"
+  }
+}

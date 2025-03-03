@@ -1,0 +1,101 @@
+{
+  "app": {
+    "title": "IntellijHosts",
+    "description": "Gestionnaire de fichiers hosts multiplateforme"
+  },
+  "common": {
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "create": "Créer",
+    "apply": "Appliquer",
+    "import": "Importer",
+    "export": "Exporter",
+    "search": "Rechercher",
+    "settings": "Paramètres",
+    "name": "Nom",
+    "description": "Description",
+    "enabled": "Activé",
+    "disabled": "Désactivé",
+    "ip": "Adresse IP",
+    "domain": "Domaine",
+    "comment": "Commentaire",
+    "created": "Créé",
+    "updated": "Mis à jour",
+    "backup": "Sauvegarde",
+    "restore": "Restaurer",
+    "confirm": "Confirmer",
+    "error": "Erreur",
+    "success": "Succès"
+  },
+  "sidebar": {
+    "profiles": "Profils",
+    "current": "Hosts actuels",
+    "settings": "Paramètres"
+  },
+  "hosts": {
+    "title": "Fichier Hosts",
+    "path": "Chemin",
+    "entries": "Entrées",
+    "add": "Ajouter une entrée",
+    "edit": "Modifier l'entrée",
+    "delete": "Supprimer l'entrée",
+    "backup": "Sauvegarder les hosts",
+    "restore": "Restaurer depuis une sauvegarde"
+  },
+  "profiles": {
+    "title": "Profils",
+    "create": "Créer un profil",
+    "edit": "Modifier le profil",
+    "delete": "Supprimer le profil",
+    "apply": "Appliquer le profil",
+    "import": "Importer des profils",
+    "export": "Exporter des profils",
+    "confirmDelete": "Êtes-vous sûr de vouloir supprimer ce profil ?",
+    "confirmApply": "Êtes-vous sûr de vouloir appliquer ce profil ? Cela écrasera votre fichier hosts actuel.",
+    "noProfiles": "Aucun profil trouvé. Créez-en un pour commencer."
+  },
+  "settings": {
+    "title": "Paramètres",
+    "theme": {
+      "title": "Thème",
+      "light": "Clair",
+      "dark": "Sombre",
+      "system": "Système"
+    },
+    "language": {
+      "title": "Langue"
+    },
+    "backup": {
+      "title": "Sauvegardes",
+      "location": "Emplacement des sauvegardes",
+      "autoBackup": "Sauvegarde automatique",
+      "manageBackups": "Gérer les sauvegardes"
+    },
+    "updates": {
+      "title": "Mises à jour",
+      "check": "Vérifier les mises à jour",
+      "auto": "Mise à jour automatique",
+      "current": "Version actuelle"
+    }
+  },
+  "errors": {
+    "permission": "Permission refusée. Veuillez exécuter avec des privilèges administrateur.",
+    "read": "Échec de la lecture du fichier hosts.",
+    "write": "Échec de l'écriture du fichier hosts.",
+    "profile": "Échec du chargement des profils.",
+    "backup": "Échec de la création de la sauvegarde.",
+    "restore": "Échec de la restauration depuis la sauvegarde.",
+    "import": "Échec de l'importation des profils.",
+    "export": "Échec de l'exportation des profils."
+  },
+  "success": {
+    "saved": "Modifications enregistrées avec succès.",
+    "applied": "Profil appliqué avec succès.",
+    "backup": "Sauvegarde créée avec succès.",
+    "restore": "Fichier hosts restauré avec succès.",
+    "import": "Profils importés avec succès.",
+    "export": "Profils exportés avec succès."
+  }
+}

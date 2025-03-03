@@ -1,0 +1,11 @@
+/Users/martin/Downloads/IntellijHosts/src-tauri/target/debug/deps/libstring_cache-efa123753be1b593.rmeta: /Users/martin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/string_cache-0.8.8/src/lib.rs /Users/martin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/string_cache-0.8.8/src/atom.rs /Users/martin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/string_cache-0.8.8/src/dynamic_set.rs /Users/martin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/string_cache-0.8.8/src/static_sets.rs /Users/martin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/string_cache-0.8.8/src/trivial_impls.rs
+
+/Users/martin/Downloads/IntellijHosts/src-tauri/target/debug/deps/libstring_cache-efa123753be1b593.rlib: /Users/martin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/string_cache-0.8.8/src/lib.rs /Users/martin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/string_cache-0.8.8/src/atom.rs /Users/martin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/string_cache-0.8.8/src/dynamic_set.rs /Users/martin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/string_cache-0.8.8/src/static_sets.rs /Users/martin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/string_cache-0.8.8/src/trivial_impls.rs
+
+/Users/martin/Downloads/IntellijHosts/src-tauri/target/debug/deps/string_cache-efa123753be1b593.d: /Users/martin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/string_cache-0.8.8/src/lib.rs /Users/martin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/string_cache-0.8.8/src/atom.rs /Users/martin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/string_cache-0.8.8/src/dynamic_set.rs /Users/martin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/string_cache-0.8.8/src/static_sets.rs /Users/martin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/string_cache-0.8.8/src/trivial_impls.rs
+
+/Users/martin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/string_cache-0.8.8/src/lib.rs:
+/Users/martin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/string_cache-0.8.8/src/atom.rs:
+/Users/martin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/string_cache-0.8.8/src/dynamic_set.rs:
+/Users/martin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/string_cache-0.8.8/src/static_sets.rs:
+/Users/martin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/string_cache-0.8.8/src/trivial_impls.rs:

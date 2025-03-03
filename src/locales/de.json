@@ -1,0 +1,101 @@
+{
+  "app": {
+    "title": "IntellijHosts",
+    "description": "Plattformübergreifender Hosts-Datei-Manager"
+  },
+  "common": {
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "delete": "Löschen",
+    "edit": "Bearbeiten",
+    "create": "Erstellen",
+    "apply": "Anwenden",
+    "import": "Importieren",
+    "export": "Exportieren",
+    "search": "Suchen",
+    "settings": "Einstellungen",
+    "name": "Name",
+    "description": "Beschreibung",
+    "enabled": "Aktiviert",
+    "disabled": "Deaktiviert",
+    "ip": "IP-Adresse",
+    "domain": "Domain",
+    "comment": "Kommentar",
+    "created": "Erstellt",
+    "updated": "Aktualisiert",
+    "backup": "Sicherung",
+    "restore": "Wiederherstellen",
+    "confirm": "Bestätigen",
+    "error": "Fehler",
+    "success": "Erfolg"
+  },
+  "sidebar": {
+    "profiles": "Profile",
+    "current": "Aktuelle Hosts",
+    "settings": "Einstellungen"
+  },
+  "hosts": {
+    "title": "Hosts-Datei",
+    "path": "Pfad",
+    "entries": "Einträge",
+    "add": "Eintrag hinzufügen",
+    "edit": "Eintrag bearbeiten",
+    "delete": "Eintrag löschen",
+    "backup": "Hosts sichern",
+    "restore": "Aus Sicherung wiederherstellen"
+  },
+  "profiles": {
+    "title": "Profile",
+    "create": "Profil erstellen",
+    "edit": "Profil bearbeiten",
+    "delete": "Profil löschen",
+    "apply": "Profil anwenden",
+    "import": "Profile importieren",
+    "export": "Profile exportieren",
+    "confirmDelete": "Sind Sie sicher, dass Sie dieses Profil löschen möchten?",
+    "confirmApply": "Sind Sie sicher, dass Sie dieses Profil anwenden möchten? Dies überschreibt Ihre aktuelle Hosts-Datei.",
+    "noProfiles": "Keine Profile gefunden. Erstellen Sie eines, um zu beginnen."
+  },
+  "settings": {
+    "title": "Einstellungen",
+    "theme": {
+      "title": "Thema",
+      "light": "Hell",
+      "dark": "Dunkel",
+      "system": "System"
+    },
+    "language": {
+      "title": "Sprache"
+    },
+    "backup": {
+      "title": "Sicherungen",
+      "location": "Sicherungsort",
+      "autoBackup": "Automatische Sicherung",
+      "manageBackups": "Sicherungen verwalten"
+    },
+    "updates": {
+      "title": "Updates",
+      "check": "Nach Updates suchen",
+      "auto": "Automatisches Update",
+      "current": "Aktuelle Version"
+    }
+  },
+  "errors": {
+    "permission": "Zugriff verweigert. Bitte mit Administratorrechten ausführen.",
+    "read": "Fehler beim Lesen der Hosts-Datei.",
+    "write": "Fehler beim Schreiben der Hosts-Datei.",
+    "profile": "Fehler beim Laden der Profile.",
+    "backup": "Fehler beim Erstellen der Sicherung.",
+    "restore": "Fehler beim Wiederherstellen aus der Sicherung.",
+    "import": "Fehler beim Importieren der Profile.",
+    "export": "Fehler beim Exportieren der Profile."
+  },
+  "success": {
+    "saved": "Änderungen erfolgreich gespeichert.",
+    "applied": "Profil erfolgreich angewendet.",
+    "backup": "Sicherung erfolgreich erstellt.",
+    "restore": "Hosts-Datei erfolgreich wiederhergestellt.",
+    "import": "Profile erfolgreich importiert.",
+    "export": "Profile erfolgreich exportiert."
+  }
+}
